@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document   #ff3838*/ 
+
+html,body{background:#f4f4f4;margin:0;padding:0;}
+header{margin:0;padding:0;height:50px;background-color:#c62f2f;overflow: hidden;}
+header .h4{text-align:center;padding:18px;margin:0;color:#fff}
+header a{display:inline-block;float:left;padding:10px;}
+.glyphicon{color: #fff;top: 16%;left: 5%;}
+.fh5co-feature{background:#fff;margin-top:1em;}
+.fh5co-feature2{background:#eee;margin-top:1em;}
+.fh5co-feature-two{background: #fff;
+height: 300px;
+width: 95%;
+margin: 10em auto;}
+.fh5co-feature hr{margin-bottom: 0;};
+.fh5co-feature .fh5co-figure img {vertical-align: based;}
+.gag{margin-top:1%; }
+.gag-two{margin-top: 3%;}
+.center{text-align: center;}
+
+
+
+
+
+
+.img-thumbnail {
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    max-width: 112%;
+    height: auto;
+    margin-left: 10%;
+}
+
+.tag-img{
+   position: absolute;
+   top: 0;
+   right: 0;
+}
+
+.font-st{
+    position: absolute;
+    top: 20%;
+    right: 0%;
+    transform: rotate(45deg);
+    color: #fff;
+    font-size: 13px;
+
+}
+.buy-btn{ padding: 92% 0% 0% 0%;};
+
+
+
+
+.glyphicon {
+    color: #fff;
+    top: 16%;
+    left: 5%;
+}
+.glyphicon {
+    position: relative;
+    top: 8px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+
+
+.errorpag img{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+
+}
